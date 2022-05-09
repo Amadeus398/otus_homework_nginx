@@ -1,1 +1,3 @@
-# otus_homework_nginx
+# otus homework nginx
+
+This is otus homework for nginx
